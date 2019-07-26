@@ -1,0 +1,5 @@
+User Function Fuck You Github()
+Local cMsg := "Fuck You Github!"
+conout(cMsg)
+MsgInfo(cMsg)
+Return

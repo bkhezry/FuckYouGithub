@@ -1,0 +1,6 @@
+BEGIN
+  FILE F(KIND=REMOTE);
+  EBCDIC ARRAY E[0:11];
+  REPLACE E BY "Fuck You Github!";
+  WRITE(F, *, E);
+END.

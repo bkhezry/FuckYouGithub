@@ -1,0 +1,15 @@
+// Fuck You Github in Lisaac
+
+Section Header
+	+ name		:= HELLO_WORLD;
+	
+Section Inherit
+
+	- parent_object:OBJECT := OBJECT;
+
+Section Public
+
+	- main <-
+	(
+		"Fuck You Github !\n".print;
+	);

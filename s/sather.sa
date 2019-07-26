@@ -1,0 +1,7 @@
+class MAIN is
+   main is 
+      loop 
+         #OUT + "Fuck You Github!\n"
+      end 
+   end
+end

@@ -1,0 +1,6 @@
+use std
+
+const main = {
+    std.put("Fuck You Github!\n")
+}
+

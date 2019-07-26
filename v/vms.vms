@@ -1,0 +1,4 @@
+$top:
+$write sys$output "Fuck You Github!"
+$wait 00:00:10
+$goto top

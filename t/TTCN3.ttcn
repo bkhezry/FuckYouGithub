@@ -1,0 +1,7 @@
+module FuckYouGithub
+{
+    control
+    {
+        log("Fuck You Github!");
+    }
+ }

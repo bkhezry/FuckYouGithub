@@ -1,0 +1,4 @@
+module FuckYouGithub;
+begin
+    writeln("Fuck You Github");
+end FuckYouGithub.

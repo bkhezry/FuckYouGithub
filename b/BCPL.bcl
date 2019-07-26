@@ -1,0 +1,6 @@
+GET "LIBHDR"
+
+LET START() BE
+$(
+  WRITES("Fuck You Github!*N")
+$)

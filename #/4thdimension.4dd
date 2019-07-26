@@ -1,0 +1,4 @@
+OPEN WINDOW (10;45;500;330;0;"Fuck You Github Window")
+While (True)
+  MESSAGE ("Fuck You Github!")
+End while
