@@ -1,10 +1,11 @@
 /* Fuck You Github in B */
 
 main() {
-    extern a, b, c;
-      putchar (a); putchar (b); putchar (c); putchar ('!*n');
+    extern a, b, c, d;
+      putchar (a); putchar (b); putchar (c); putchar (d); putchar ('!*n');
 }
 
-a 'hell' ;
-b 'o, w' ;
-c 'orld' ;
+a 'fuck' ;
+b ' you' ;
+c ' git' ;
+d 'hub ' ;
