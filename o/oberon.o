@@ -1,0 +1,8 @@
+MODULE FuckYouGithub;
+
+IMPORT Out;
+
+BEGIN
+   Out.Open;
+   Out.String('Fuck You Github');
+END FuckYouGithub.

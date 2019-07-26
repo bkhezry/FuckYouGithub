@@ -1,0 +1,6 @@
+(define-service (hello-world)
+  (<HTML>
+     (<HEAD>
+        (<TITLE> "Fuck You Github!"))
+     (<BODY>
+        "Fuck You Github!")))

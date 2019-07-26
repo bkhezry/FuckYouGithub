@@ -1,0 +1,4 @@
+ORIGIN '~beta/basiclib/betaenv'
+-- program: Descriptor --
+(* Fuck You Github in BETA *)
+(# do 'Fuck You Github' -> putLine #)

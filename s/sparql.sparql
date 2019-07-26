@@ -1,0 +1,3 @@
+SELECT ?h WHERE { 
+  VALUES ?h { "Fuck You Github!" }
+}

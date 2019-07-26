@@ -1,0 +1,7 @@
+#Fuck You Github.
+
+@width 3
+@height 1
+
+(1,1):START
+(3,1):PRINT 'Fuck You Github'

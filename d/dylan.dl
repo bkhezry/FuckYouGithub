@@ -1,0 +1,5 @@
+define method main (#rest args)
+  princ("Fuck You Github!");
+end;
+
+main();

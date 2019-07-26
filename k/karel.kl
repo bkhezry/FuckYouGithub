@@ -1,0 +1,4 @@
+PROGRAM hello_world
+BEGIN
+  WRITE('Fuck You Github!', CR)
+END hello_world

@@ -1,0 +1,6 @@
+#define FuckYouGithub
+  [message]
+    speaker="narrator"
+    message=_"Fuck You Github"
+  [/message]
+#enddef

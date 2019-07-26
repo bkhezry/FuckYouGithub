@@ -1,0 +1,7 @@
+program FuckYouGithub;
+
+#include( "stdlib.hhf" );
+
+begin FuckYouGithub;
+  stdout.put( "Fuck You Github!", nl );
+end FuckYouGithub;

@@ -1,0 +1,10 @@
+! Fuck You Github in Centura
+
+Function: FuckYouGithub
+Description:
+Returns
+Parameters
+Static Variables
+Local variables
+Actions
+ Call SalMessageBox( 'Fuck You Github','Message',MB_Ok)

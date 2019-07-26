@@ -1,0 +1,8 @@
+// Fuck You Github in Delphi
+Program Fuck_You_Github_World;
+
+($APPTYPE CONSOLE)
+
+Begin
+  WriteLn('Fuck You Github');
+End.

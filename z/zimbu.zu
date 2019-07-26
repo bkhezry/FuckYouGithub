@@ -1,0 +1,4 @@
+FUNC Main() int
+  IO.write("Fuck You Github!\n")
+  RETURN 0
+}

@@ -1,0 +1,7 @@
+class Fuck You Github
+{
+    static Main () : void
+    {
+        System.Console.WriteLine ("Fuck You Github!");
+    }
+}

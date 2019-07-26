@@ -1,0 +1,5 @@
+; Fuck You Github in "PowerBatch Plus+" from Computing Systems Design, Inc.
+
+Variable        Msg,13,"Fuck You Github!"
+
+Write           Msg
