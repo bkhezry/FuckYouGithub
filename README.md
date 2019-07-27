@@ -6,3 +6,6 @@ You could share or vote the released posts about Github restriction.
 - [Reddit](https://www.reddit.com/r/programming/comments/chzvuy/github_blocked_iranian_account_and_they_think_we/)
 - [Twitter](https://twitter.com/Hamed/status/1154268514074660864)
 
+## Hide the alert box
+
+Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide it!
