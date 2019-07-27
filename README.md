@@ -1,5 +1,8 @@
 # Fuck You Github 
- 
+
+## Please also support this repository with star & contribute
+[1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us)
+
 You could share or vote the released posts about Github restriction.
 
 - [Medium](https://medium.com/@hamed/github-blocked-my-account-and-they-think-im-developing-nuclear-weapons-e7e1fe62cb74)
